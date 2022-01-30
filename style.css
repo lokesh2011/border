@@ -1,0 +1,73 @@
+#dashed {
+  border: 5px dashed rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#dotted {
+  border: 5px dotted rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#double {
+  border: 5px double rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#inset {
+  border: 5px inset rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#groove {
+  border: 5px groove rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#outset {
+  border: 5px outset rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#ridge {
+  border: 5px ridge rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+#solid {
+  border: 5px dashed rgb(131, 130, 130);
+  text-align: center;
+  color: red;
+  background-color: rgb(204, 197, 197);
+  height: 60px;
+  margin-top: 30px;
+}
+h1 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
